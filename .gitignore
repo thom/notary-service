@@ -1,0 +1,12 @@
+# depedencies
+node_modules
+
+# misc
+chaindata
+.DS_Store
+.env
+npm-debug.log
+.vagrant/**
+
+#node
+package-lock.json
