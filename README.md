@@ -133,3 +133,7 @@ curl -v -X GET http://localhost:8000/block/1
 # Trying to get non-existing block
 curl -v -X GET http://localhost:8000/block/foobar
 ```
+
+## Requirements
+
+Graded according to the [Project Rubric](https://review.udacity.com/#!/rubrics/2098/view).
