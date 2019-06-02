@@ -1,4 +1,4 @@
-# Project 4: Build a Private Blockchain Notary Service
+# Udacity Blockchain Developer Nanodegree Program - Project 4: Build a Private Blockchain Notary Service
 
 ## Getting started
 
